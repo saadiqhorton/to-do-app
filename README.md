@@ -21,7 +21,7 @@ A modern, category-based to-do list app built with Python and Tkinter. Clean UI,
 
 ## 🚀 Download
 
-🖥️ **[Download the Windows .exe](https://github.com/saadiqhorton/to-do-app)**
+🖥️ **[Download the Windows .exe](https://github.com/saadiqhorton/to-do-app/latest/releases)**
 
 > The `.exe` is bundled in the `dist/` folder or under Releases.
 
