@@ -36,6 +36,8 @@ A modern, category-based to-do list app built with Python and Tkinter. Clean UI,
 ### 💻 If you're running the source code:
 
 1. ```bash
-    git clone https://github.com/saadiqhorton/to-do-app
-2. cd to-do-app
-3. python main.py
+    git clone https://github.com/saadiqhorton/to-do-app/releases/latest
+2. ```bash
+   cd to-do-app
+3. ```bash
+   python main.py
